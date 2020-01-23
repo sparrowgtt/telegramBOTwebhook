@@ -1,0 +1,21 @@
+{
+  "update_id": 66120373,
+  "message": {
+    "message_id": 18,
+    "from": {
+      "id": 486607366,
+      "is_bot": false,
+      "first_name": "Даниил",
+      "last_name": "Володин",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 486607366,
+      "first_name": "Даниил",
+      "last_name": "Володин",
+      "type": "private"
+    },
+    "date": 1575324443,
+    "text": "fadsfds"
+  }
+}
